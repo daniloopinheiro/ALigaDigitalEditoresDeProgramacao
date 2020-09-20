@@ -1,5 +1,5 @@
 # A Liga Digital - Editores De Programação 
-[fonte](https://pplware.sapo.pt/software/10-dos-melhores-editores-texto-2017/)
+[fonte](https://kinsta.com/pt/blog/melhores-editores-texto/)
 Deixo aqui uma lista de opções de Editores de texto para você programar. Tanto para quem inicia-se aos que já estão na área.
 
 <br>
