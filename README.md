@@ -3,7 +3,7 @@
 Deixo aqui uma lista de opções de Editores de texto para você programar. Tanto para quem inicia-se aos que já estão na área.
 
 <br>
-<img height="60" src=https://neovim.io/images/logo@2x.png /><p>
+<img height="50" src=https://neovim.io/images/logo@2x.png /><p>
 
 [NeoVim](https://neovim.io/)
 é um refator, e às vezes redator, na tradição do Vim (que deriva de Stevie). Não é uma reescrita, mas uma continuação e extensão do Vim. Existem muitos clones e derivados, alguns muito inteligentes - mas nenhum é Vim. O Neovim foi criado para usuários que desejam as partes boas do Vim e muito mais.
