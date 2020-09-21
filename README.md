@@ -3,15 +3,21 @@
 Deixo aqui uma lista de opções de Editores de texto para você programar. Tanto para quem inicia-se aos que já estão na área.
 
 <br>
+<img height="70" src=https://neovim.io/images/logo@2x.png /><p>
+
+[NeoVim](https://neovim.io/)
+é um refator, e às vezes redator, na tradição do Vim (que deriva de Stevie). Não é uma reescrita, mas uma continuação e extensão do Vim. Existem muitos clones e derivados, alguns muito inteligentes - mas nenhum é Vim. O Neovim foi criado para usuários que desejam as partes boas do Vim e muito mais.
+
+<br>
 <img height="70" src=https://notepad-plus-plus.org/images/logo.svg /><p>
 
-[Notepad++]()
+[Notepad++](https://notepad-plus-plus.org/downloads/)
 é um poderosíssimo editor de texto que combina uma série de funcionalidades que facilitam o trabalho de qualquer pessoa que trabalhe com texto digital. É bastante leve, reconhece a sintaxe de aproximadamente 40 linguagens de programação (C, C++, HTML, XML, ASP, JAVA, SQL, Perl, Python, HTML5, CSS entre outras com sistema syntax highlight, excelente para programadores).
 
 <br>
 <img height="70" src=https://code.visualstudio.com/assets/favicon.ico /><p>
 
-[Visual Studio Code]() é simplesmente um editor de texto que oferece um conjunto vasto de funcionalidades. Este editor é multi-plataforma, gratuito e é direcionado para programadores que procuram um simples IDE , leve mas ao mesmo tempo completo.
+[Visual Studio Code](https://code.visualstudio.com/) é simplesmente um editor de texto que oferece um conjunto vasto de funcionalidades. Este editor é multi-plataforma, gratuito e é direcionado para programadores que procuram um simples IDE , leve mas ao mesmo tempo completo.
 
 <br>
 <img height="70" src=https://avatars0.githubusercontent.com/u/1089146?s=400&v=4 /><p>
