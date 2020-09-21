@@ -1,12 +1,14 @@
 # A Liga Digital - Editores De Programação 
-[fonte](https://kinsta.com/pt/blog/melhores-editores-texto/)
+
 Deixo aqui uma lista de opções de Editores de texto para você programar. Tanto para quem inicia-se aos que já estão na área.
 
 <br>
-<img height="70" src=https://neovim.io/images/logo@2x.png /><p>
+<img height="60" src=https://neovim.io/images/logo@2x.png /><p>
 
 [NeoVim](https://neovim.io/)
 é um refator, e às vezes redator, na tradição do Vim (que deriva de Stevie). Não é uma reescrita, mas uma continuação e extensão do Vim. Existem muitos clones e derivados, alguns muito inteligentes - mas nenhum é Vim. O Neovim foi criado para usuários que desejam as partes boas do Vim e muito mais.
+
+Editores a baixo segue à [fonte](https://kinsta.com/pt/blog/melhores-editores-texto/)
 
 <br>
 <img height="70" src=https://notepad-plus-plus.org/images/logo.svg /><p>
