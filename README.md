@@ -8,8 +8,7 @@ Deixo aqui uma lista de opções de Editores de texto para você programar. Tant
 [NeoVim](https://neovim.io/)
 é um refator, e às vezes redator, na tradição do Vim (que deriva de Stevie). Não é uma reescrita, mas uma continuação e extensão do Vim. Existem muitos clones e derivados, alguns muito inteligentes - mas nenhum é Vim. O Neovim foi criado para usuários que desejam as partes boas do Vim e muito mais.
 
-Editores a baixo segue à [fonte](https://kinsta.com/pt/blog/melhores-editores-texto/)
-
+* Editores a baixo segue à [fonte](https://kinsta.com/pt/blog/melhores-editores-texto/)
 <br>
 <img height="70" src=https://notepad-plus-plus.org/images/logo.svg /><p>
 
