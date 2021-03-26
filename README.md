@@ -36,7 +36,7 @@ O [Atom](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&
 [Brackets](http://brackets.io/) considerado como o substituto do gedit (editor de texto com interface gráfica), o Brackets é um editor de texto código, muito versátil, leve e pode ser facilmente artilhado através das mais diversas extensões disponíveis.
 
 <br>
-<img height="70" src=https://static.macupdate.com/products/16157/l/textmate-logo.png?v=1577879517 /><p>
+<img height="70" src=https://img.stackshare.io/service/643/textmate2.png /><p>
 
 [TextMate](https://macromates.com/) é oferecido como um download gratuito, mas você pode optar por fazer um upgrade para a versão premium por US$59. Tenha em mente que esse pagamento só gera uma licença, portanto você teria que pagar várias vezes se tiver uma equipe de pessoas que precisam usar o editor de texto.
 
